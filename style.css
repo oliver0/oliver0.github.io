@@ -1,3 +1,126 @@
-p {
-  color: red;
+body {
+	font-family: calibri;
 }
+
+#container {
+	background-color: #e5e4b8 ;
+	
+	color: #034f84;
+	
+	margin-left: 15rem;
+	margin-right: 15rem;
+	margin-top: 3rem;
+	
+	padding: 25px;
+	padding-right: 120px;
+	padding-left: 120px;
+	
+	box-shadow: 10px 10px 5px #888888;
+}
+
+#name{
+	font-size: 58px;
+	font-weight: bold;
+	margin-top: 50px;
+	margin-bottom: -15px;
+	background-color: #f7786b;
+	color: #034f84;
+	padding-left: 140px;
+	
+	margin-left: -120px;
+	margin-right: -120px;
+	
+	text-shadow: 1px 1px white;
+}
+
+#profile {
+	font-size: 22px;
+	font-style: italic;
+	margin-top: 40px;
+}
+
+#pic {
+	width: 158px;
+	height: 191px;
+	float: right;
+	margin-right: -55px;
+	margin-top: 20px;
+	box-shadow: 6px 6px 3px white;
+}
+
+#contact-details{
+
+	margin-top: 30px;
+}
+
+
+#main-content{
+	margin-top: 30px;
+	margin-bottom: 50px;
+}
+
+#company-names {
+	padding-left: 50px;
+}
+
+.section {
+	
+	border-top: 2px solid #f7786b;
+	margin-right: -65px;
+	padding-top: 20px;
+	padding-bottom: 20px
+}
+
+.section-header {
+	font-size: 30px;
+	font-weight: bold;
+}
+.date{
+	float: right;
+	font-size: 16px;
+	margin-top: 15px;
+	font-weight: bold;
+}
+.date2 {
+	font-weight: bold;
+	margin-top: 25px;
+}
+
+a {
+	text-decoration: none;	
+}
+
+a:hover {
+	color: #f7786b;
+}
+
+a:active {
+	color: white;
+	font-style: bold;
+}
+	
+h4 {
+	margin-bottom: 30px;
+}
+
+li {
+	font-size: 18px;
+}
+
+p {
+	font-size: 18px;
+}
+
+#references {
+	font-size: 14;
+	padding-bottom: 20px;
+}
+.reference-name {
+	font-weight: bold;
+	font-size:18px;
+	margin-top: 20px;
+}
+
+
+
+
