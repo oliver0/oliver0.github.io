@@ -123,6 +123,10 @@ button {
 	border-top:none;
 }
 
+#references {
+	display:none;
+}
+
 #letter-o {
 	color: #034f84;
 	text-shadow: 1px 1px white;
