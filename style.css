@@ -21,15 +21,10 @@ body {
 #name{
 	font-size: 58px;
 	font-weight: bold;
-	margin-top: 50px;
-	margin-bottom: -15px;
 	background-color: #f7786b;
 	color: #034f84;
 	padding-left: 140px;
-	
-	margin-left: -120px;
-	margin-right: -120px;
-	
+	margin 50px -120px 15px -120px;
 	text-shadow: 1px 1px white;
 }
 
