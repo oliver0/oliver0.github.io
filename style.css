@@ -137,3 +137,14 @@ button {
 	
 }
 
+#letter-a {
+	color: #f7786b;
+	text-shadow: 1px 1px white;
+	font-size: 60px;	
+	transition: all 2s linear;
+	position: relative;
+	top: -73px;
+	width: 10px;
+	margin: 0px auto 0px auto;
+}
+
