@@ -96,6 +96,7 @@ button {
 	font-size: 22px;
 	font-style: italic;
 	margin-top: 40px;
+	border-top: none;
 }
 
 #pic {
@@ -114,12 +115,14 @@ button {
 #contact-details{
 
 	margin-top: 30px;
+	border-top:none;
 }
 
 
 #main-content{
 	margin-top: 30px;
 	margin-bottom: 50px;
+	border-top:none;
 }
 
 #letter-o {
