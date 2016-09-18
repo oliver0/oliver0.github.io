@@ -99,6 +99,9 @@ button {
 	height: 191px;
 	float: right;
 	margin: 20px -70px 0 0;
+	padding: 5px;
+	background-color: white;
+	border: 7px solid #034f84;
 	
 }
 
