@@ -90,6 +90,11 @@ button {
 		all 1s ease-in-out;
 }
 
+#name:hover {
+	background-color: #034f84;
+	color: #f7786b;
+}
+
 #profile {
 	font-size: 22px;
 	font-style: italic;
