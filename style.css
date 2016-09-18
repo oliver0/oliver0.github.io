@@ -43,29 +43,6 @@ button {
 	margin-bottom: 30px;
 }
 
-
-
-.section-header {
-	font-size: 30px;
-	font-weight: bold;
-}
-.date{
-	float: right;
-	font-size: 16px;
-	margin-top: 15px;
-	font-weight: bold;
-}
-.date2 {
-	font-weight: bold;
-	margin-top: 25px;
-}
-
-.reference-name {
-	font-weight: bold;
-	font-size:18px;
-	margin-top: 20px;
-}
-
 #container {
 	background: url("biege-background.jpg");
 	color: #034f84;
