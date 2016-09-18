@@ -38,8 +38,7 @@ body {
 	width: 158px;
 	height: 191px;
 	float: right;
-	margin-right: -55px;
-	margin-top: 20px;
+	margin: 20px -70px 0 0;
 	box-shadow: 6px 6px 3px white;
 }
 
