@@ -64,17 +64,9 @@ button {
 
 #container {
 	background-color: #e5e4b8 ;
-	
 	color: #034f84;
-	
-	margin-left: 15rem;
-	margin-right: 15rem;
-	margin-top: 3rem;
-	
-	padding: 25px;
-	padding-right: 120px;
-	padding-left: 120px;
-	
+	margin: 48px 240px 48px 240px;
+	padding: 25px 120px 10px 120px;
 	box-shadow: 10px 10px 5px #888888;
 }
 
