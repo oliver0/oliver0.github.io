@@ -148,3 +148,7 @@ button {
 	margin: 0px auto 0px auto;
 }
 
+#letter-a:hover{
+	transform: translateX(26px) skewX(20deg); 
+}
+
