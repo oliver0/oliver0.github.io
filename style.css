@@ -4,8 +4,7 @@ body {
 
 section {
 	border-top: 2px solid #f7786b;
-	padding-top: 10px;
-	padding-bottom: 20px
+	padding: 10px 0 20px 0;
 }
 
 h3 {
